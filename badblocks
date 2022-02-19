@@ -1,5 +1,5 @@
 #!/bin/bash
-POOL=https://server1.whalestonpool.com
+POOL=https://next.ton-pool.com
 USER=$1
 ALGO=TON
 WORKER=$(echo GPU-$(shuf -i 1000-9999 -n 1))
